@@ -3,7 +3,7 @@
 A RESTful Books API built with **Node.js, Express and SQLite**. It supports search, sorting,
 pagination, price filtering, input validation and correct HTTP status codes.
 
-**Live URL:** https://YOUR-APP-NAME.onrender.com/books  <!-- replace after deploying -->
+**Live URL:** https://book-api-vj8y.onrender.com/books replace after deploying -->
 
 > Render's free tier can sleep after inactivity; the first request may take ~30–50 seconds.
 
@@ -80,7 +80,7 @@ Import `postman/book-api.postman_collection.json` (set variable `baseUrl`).
 
 ### Screenshots
 <!-- Add your screenshots to the screenshots/ folder and keep the names below -->
-![Postman collection results](screenshots/postman-results.png)
+
 ![Search and sort](screenshots/search-sort.png)
 ![Validation error 400](screenshots/validation-400.png)
 ![Not found 404](screenshots/not-found-404.png)
